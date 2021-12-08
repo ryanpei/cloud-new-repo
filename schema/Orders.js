@@ -1,3 +1,4 @@
+//test commit 2
 cube(`Orders`, {
   sql: `SELECT * FROM public.orders`,
   
